@@ -6,7 +6,7 @@
 
 <script>
 import { Button } from 'wheel-smile-ui'
-import 'wheel-smile-ui/dist/lib/smileUi.css'
+
 // import { Button } from 'gulu-ui-1'
 // import 'gulu-ui-1/dist/lib/gulu.css'
 
@@ -19,6 +19,7 @@ export default {
 </script>
 
 <style>
+  @import 'wheel-smile-ui/dist/lib/smileUi.css';
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

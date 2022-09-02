@@ -6,9 +6,10 @@
 
 <script>
 import { Button } from 'wheel-smile-ui'
-import 'wheel-smile-ui/dist/lib/smileUi.css'
+// import 'wheel-smile-ui/dist/lib/wheel-smile-ui.css'
 // import { Button } from 'gulu-ui-1'
 // import 'gulu-ui-1/dist/lib/gulu.css'
+node_modules\wheel-smile-ui\dist\lib\wheel-smile-ui.css
 
 export default {
   name: 'App',
